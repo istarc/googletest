@@ -6,7 +6,8 @@ googletest
 Created by:
 
 	# Import Svn Repository
-	git svn clone --prefix=upstream/ --username=googletest-read-only -s http://googletest.googlecode.com/svn googletest
+	git svn clone --username=googletest-read-only --prefix=upstream/ \
+								-s http://googletest.googlecode.com/svn googletest
 
 	# Import Tags
 	cd googletest
