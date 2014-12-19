@@ -7,7 +7,7 @@ Created by:
 
 	# Import Svn Repository
 	git svn clone --username=googletest-read-only --prefix=upstream/ \
-								-s http://googletest.googlecode.com/svn googletest
+	              -s http://googletest.googlecode.com/svn googletest
 
 	# Import Tags
 	cd googletest
@@ -24,7 +24,7 @@ Created by:
 
 Clone (no warranties):
 
-    git clone https://github.com/istarc/freertos.git
+    git clone https://github.com/istarc/googletest.git
 
 Update:
 
